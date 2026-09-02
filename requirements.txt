@@ -1,0 +1,4 @@
+# XR Touchpad Test Automation Suite
+# Python 3.8+ required.
+# Uses Python Standard Library (subprocess, threading, argparse, csv, re, socket).
+# No external pip dependencies required.

@@ -1,0 +1,47 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Test run data & dumps
+*_raw.txt
+*_wearable_raw.txt
+*_glasses_raw.txt
+*_linux_events.txt
+*_filtered.txt
+*_synced_data.csv
+*_bugreport.zip
+*.xlsx
+*.log
+Tester-*_*_*
+
+# OS & Editor files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp

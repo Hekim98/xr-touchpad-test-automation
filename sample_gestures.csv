@@ -1,0 +1,36 @@
+Step,Expected_Gesture,Head_Pose
+1,2-fingers Swipe Backward,Head looking Left
+2,2-fingers Swipe Backward,Head looking Up
+3,Tap and Hold,Head looking Right
+4,2-fingers Swipe Forward,Head looking Left
+5,Swipe Down,Head looking Down
+6,Swipe Down,Head looking Up
+7,Tap,Head looking Straight
+8,Swipe Backward,Head looking Down
+9,Swipe Forward,Head looking Straight
+10,Tap and Hold,Head looking Straight
+11,2-fingers Swipe Forward,Head looking Right
+12,Swipe Backward,Head looking Left
+13,Tap,Head looking Up
+14,Swipe Forward,Head looking Right
+15,Swipe Backward,Head looking Up
+16,2-fingers Swipe Backward,Head looking Straight
+17,Swipe Forward,Head looking Down
+18,Tap,Head looking Left
+19,Swipe Down,Head looking Right
+20,Tap and Hold,Head looking Down
+21,2-fingers Swipe Forward,Head looking Up
+22,Swipe Backward,Head looking Right
+23,Swipe Down,Head looking Straight
+24,Tap,Head looking Right
+25,Tap and Hold,Head looking Left
+26,Swipe Forward,Head looking Left
+27,Swipe Down,Head looking Left
+28,2-fingers Swipe Backward,Head looking Down
+29,2-fingers Swipe Forward,Head looking Down
+30,Tap,Head looking Down
+31,Tap and Hold,Head looking Up
+32,Swipe Backward,Head looking Straight
+33,Swipe Forward,Head looking Up
+34,2-fingers Swipe Backward,Head looking Right
+35,2-fingers Swipe Forward,Head looking Straight
